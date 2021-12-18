@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "shell script practice\nfor the day\nsubject 23"
+echo "shell script practice\nfor the day\nsubject 123"
 
