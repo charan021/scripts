@@ -1,5 +1,5 @@
 #!/bin/bang
-echo "Enter the value"
+echo "Enter the"
 read num
 sum=0
 while [ $num -gt 0 ]
